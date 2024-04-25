@@ -27,7 +27,7 @@ def create_timeseries_dataset(max_encoder_length,max_prediction_length,preproces
         max_encoder_length=max_encoder_length,
         max_prediction_length=max_prediction_length,
         time_varying_known_reals=[
-            "time_idx", 'Customers', 'Open', 'Promo', 'SchoolHoliday', 'Year', 'Month','Day','DayOfWeek','StoreType'],
+             "time_idx", 'Customers', 'CompetitionOpen', 'Promo', 'StateHoliday', 'IsPromoMonth', 'Month','Day','DayOfWeek','StoreType'],
         time_varying_unknown_reals=['Sales'],
         target_normalizer=GroupNormalizer(
             groups=["Store"], transformation="softplus"
