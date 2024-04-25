@@ -1,0 +1,8 @@
+pytorch-forecasting 
+optuna-integration
+optuna==3.4
+pandas
+seaborn
+matplotlib
+cpflows
+tensorboard
