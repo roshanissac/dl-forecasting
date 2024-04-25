@@ -58,9 +58,9 @@ Below are the steps to run the experiments,
 
 # References
 
-1. PyTorch Forecasting [link](https://pytorch-forecasting.readthedocs.io/en/stable/index.html)
-2. Rossman Sales Dataset[link](https://www.kaggle.com/competitions/rossmann-store-sales/data)
-3. Oreshkin, B. N., Carpov, D., Chapados, N., \& Bengio, Y.  } (2020) N-BEATS: Neural basis expansion analysis for interpretable time series forecasting. Proceedings of the International Conference on Learning Representations (ICLR)}.  [link](https://arxiv.org/abs/1905.10437)
-4. Lim, B., Arık, S. Ö., Loeff, N., \& Pfister, T.  } Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting. [link](https://arxiv.org/abs/1912.09363)
-5. Cristian Challu, Kin G. Olivares, Boris N. Oreshkin, Federico Garza, Max Mergenthaler-Canseco, Artur Dubrawski } (2021). N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting.[link](https://arxiv.org/abs/2201.12886)
+1. PyTorch Forecasting:[link](https://pytorch-forecasting.readthedocs.io/en/stable/index.html)
+2. Rossman Sales Dataset:[link](https://www.kaggle.com/competitions/rossmann-store-sales/data)
+3. Oreshkin, B. N., Carpov, D., Chapados, N., \& Bengio, Y.  } (2020) N-BEATS: Neural basis expansion analysis for interpretable time series forecasting. Proceedings of the International Conference on Learning Representations (ICLR)}: [link](https://arxiv.org/abs/1905.10437)
+4. Lim, B., Arık, S. Ö., Loeff, N., \& Pfister, T.  } Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting:[link](https://arxiv.org/abs/1912.09363)
+5. Cristian Challu, Kin G. Olivares, Boris N. Oreshkin, Federico Garza, Max Mergenthaler-Canseco, Artur Dubrawski } (2021). N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting:[link](https://arxiv.org/abs/2201.12886)
 
