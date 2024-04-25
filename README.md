@@ -2,12 +2,11 @@
 
 This is an empirical analysis NBeats,N-Hits and TFT Architectures on Rossman Sales Dataset as part of DS8013 Deep Learning Course Project for Toronto Metropolitan University's(TMU) Data Science Master's (MSc) program.
 
-
 # Data
 
-The original raw source of the data used for this experiment comes from Reddit Posts from the below links,
+The original raw source of the data used for this experiment taken from Kaggle from the below link,
 
-* [Train Dataset]([[https://openaipublic.blob.core.windows.net/summarize-from-feedback/datasets/tldr_3_filtered/train.jsonl](https://www.kaggle.com/competitions/rossmann-store-sales/data))]
+* [Train Dataset](https://www.kaggle.com/competitions/rossmann-store-sales/data)
 
 These datasets are downloaded and stored under **datasets/raw/** folder.
 
