@@ -2,7 +2,7 @@
 
 This is an empirical analysis NBeats,N-Hits and TFT Architectures on Rossman Sales Dataset as part of DS8013 Deep Learning Course Project for Toronto Metropolitan University's(TMU) Data Science Master's (MSc) program.
 
-The primary purpose of this project is to do an empirical analysis of rossman dataset leveraging novel forecasting frameworks such as N-BEATS, N-HITS, and Temporal Fusion Transformers(TFT).The project aims to study the performance of these frameworks by comparing it with a suitable baseline(ARIMA or naive baseline) with a focus on sales prediction at Rossman Stores.
+The primary purpose of this project is to do an empirical analysis of rossman dataset leveraging novel forecasting frameworks such as N-BEATS, N-HITS, and Temporal Fusion Transformers(TFT).The project aims to study the performance of these frameworks by comparing it with a suitable baseline with a focus on sales prediction at Rossman Stores.
 
 # Data
 
