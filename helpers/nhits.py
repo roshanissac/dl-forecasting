@@ -74,7 +74,6 @@ def train_nhits(train_dataloader,val_dataloader,training_nhit,max_prediction_len
     trainer = pl.Trainer(
         max_epochs=no_of_epochs,
         accelerator="cpu",
-        enable_model_summary=True,
         gradient_clip_val=1.0,
         callbacks=[early_stop_callback],
         limit_train_batches=50,
